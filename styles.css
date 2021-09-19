@@ -4,6 +4,10 @@
     background-color: rgb(210,180,140);
      }
 
+body {
+  background-image: url("myBackground.jpg);
+}
+
   h1 {
    color: brown;
   }
